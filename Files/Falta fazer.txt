@@ -1,0 +1,6 @@
+1- Botao Modificar
+2- Adicionar botao de rolagem nas tabelas
+3- Fundao doble click nas tabelas
+4- Fazer tela de rapida visualizaçao dos pet na aba tabela pet
+5- Configurar a seleçao de pet na aba adoçao
+6- Ajustes no gerenciador
